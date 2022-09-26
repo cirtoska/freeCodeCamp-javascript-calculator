@@ -1,3 +1,6 @@
+# freeCodeCamp Project - Build a JavaScript Calculator
+### live version https://free-code-camp-javascript-calculator-hoem.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
