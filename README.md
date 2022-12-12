@@ -1,4 +1,7 @@
 # freeCodeCamp Project - Build a JavaScript Calculator
+
+This projects was from freeCodeCamp Front End Development Libraries Projects. The task was to build a JavaScript Calculator. For the solution I was using react useState hook.
+
 ### live version https://free-code-camp-javascript-calculator-hoem.vercel.app/
 
 # Getting Started with Create React App
